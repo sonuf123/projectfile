@@ -1,0 +1,55 @@
+.spr-container {
+     border: none;
+}
+
+
+.spr-header-title {
+    width: 100%;
+    text-align: left;
+    padding: 0;
+    margin: 0 0 14px;
+    display: inline-block;
+    font-size: 16px !important;
+    font-size: 1.6rem;
+    letter-spacing: 0.03em;
+  	padding-top: 12px;
+}
+
+.spr-review {
+  text-align: left;
+}
+
+.shopify-product-reviews-badge {
+ padding-bottom: 25px;
+}
+
+.spr-badge {
+ padding-bottom: 25px; 
+ margin-top: -25px;
+}
+
+
+#review-badge {
+  color: #333;
+}
+
+#review-badge a{
+  color: #333;
+}
+#review-badge span{
+  color: #333;
+}
+
+.spr-review-content {
+  margin: 0 !important;
+}
+
+.spr-review-footer a{
+  color: #f4f4f4;
+}
+
+
+#shopify-product-reviews {    
+	border-top: 1px solid #f4f4f4;
+    margin-top: 25px;
+}
